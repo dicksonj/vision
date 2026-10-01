@@ -1,0 +1,5 @@
+# Created with:  python3 -m venv ~/ped-env --system-site-packages
+# (system-site-packages keeps JetPack's OpenCV; do NOT pip-install opencv here)
+streamlit>=1.30
+numpy>=1.23.2,<2
+ai-edge-litert
